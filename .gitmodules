@@ -1,0 +1,3 @@
+[submodule "BookSourceCode"]
+	path = BookSourceCode
+	url = https://github.com/pbharrin/machinelearninginaction.git
