@@ -1,2 +1,2 @@
 # MachineLearningInAction
-Machine Learning in Action.
+Source code in Machine Learning in Action books
